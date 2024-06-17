@@ -1,0 +1,7 @@
+NetApi/bin/
+NetApi/obj/
+packages/
+NetApi/Web.Debug.config
+NetApi/Web.Release.config
+NetApi/.vs/
+.vs/
